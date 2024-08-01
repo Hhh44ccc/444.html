@@ -1,2 +1,1 @@
-# 444.html
-Just start
+<html><head><title> starting with a sample </title></head> <body bgcolor = aqua Text = black > <H1> Hello My name is Vaibhav sharma my Favourite things that keep me alive </H1><br> <p><h2>Favourite passtime</h2></p><ul> <li> Listening music </li> <li>Watching Movie in mobile </li></ul><br><h2> Favourite Music Tracks </h2><p> I enjoy only some sadly type of muyic.hope that you love it.</p> <br> <h2> Watching Movies in Mobile</h2> <p> I love watching movies.recently I watched Deadpool 3 </p> <br> <p> <h5> personal diary entry</h5></p> <IMG src="file:///storage/emulated/0/DCIM/Camera/IMG_20240707_213734.jpg" Height =200, Width = 100> </body></html
